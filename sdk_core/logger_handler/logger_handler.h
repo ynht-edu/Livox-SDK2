@@ -1,3 +1,4 @@
+#include <cstdint>
 //
 // The MIT License (MIT)
 //
